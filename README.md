@@ -11,6 +11,6 @@ I’m a Management Information Systems student at Taif University with a passion
 Python | SQL | Excel | Power BI
 
 ## ✉️ Connect me on:
-[![LinkedIn](https://img.shields.io/badge/0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghala-althubaity-86508b372?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghala-althubaity-86508b372?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
-[![X](https://img.shields.io/badge/000000?style=flat&logo=x&logoColor=white)](https://x.com/mrsghlo?s=21)
+[![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://x.com/mrsghlo?s=21)
