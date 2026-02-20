@@ -12,9 +12,9 @@ Python | SQL | Excel | Power BI
 
 ## ✉️ Connect me on:
 <a href="https://www.linkedin.com/in/ghala-althubaity-86508b372">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="32"/>
 </a>
 
 <a href="https://x.com/mrsghlo">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" width="32"/>
 </a>
