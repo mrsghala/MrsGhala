@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=7A5FFF&center=true&vCenter=true&width=600&lines=Hello!+I'm+Ghala+🪄" />
+<img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=#412B44&center=true&vCenter=true&width=600&lines=Hello!+I'm+Ghala+🪄" />
 </p>
 
 ---
@@ -20,7 +20,7 @@ https://mrsghala.github.io/Glaud-Data-/
 
 ---
 
-## ⚙️ Tools
+## ⚒️ Tools
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
