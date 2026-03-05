@@ -5,20 +5,20 @@
 ---
 
 ## 🪄 About Me
-
 <p style="font-size:12px">
-I’m a **Management Information Systems student at Taif University** with a strong interest in **data analysis, problem-solving, and transforming raw data into insights that support better decision-making.**
+I’m a <b>Management Information Systems student at Taif University</b> with a strong interest in <b>data analysis, problem-solving, and transforming raw data into insights that support better decision-making.</b>
+</p>
 
 ---
 
 ## </> Projects
 
-<p style="font-size:12px">
 ### Glaud Data
+<p style="font-size:12px">
 A practical workspace designed to eliminate fragmentation between data tools by unifying them in one place.
+</p>
 
-🔗 **View Project**  
-https://mrsghala.github.io/Glaud-Data-/
+🔗 <p style="font-size:12px">**View Project:** <a href="https://mrsghala.github.io/Glaud-Data-/">https://mrsghala.github.io/Glaud-Data-/</a></p>
 
 ---
 
