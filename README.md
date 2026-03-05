@@ -11,7 +11,7 @@ I’m a <b>Management Information Systems student at Taif University</b> with a 
 
 ---
 
-## </> Projects
+## ‹/› Projects
 
 ### Glaud Data
 <p style="font-size:12px">
