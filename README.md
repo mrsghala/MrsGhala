@@ -20,7 +20,7 @@ https://mrsghala.github.io/Glaud-Data-/
 
 ---
 
-## 🛠 Tools
+## ⚙️ Tools
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -34,7 +34,7 @@ https://mrsghala.github.io/Glaud-Data-/
 
 ---
 
-## 📊 Data Skills
+## ✦ Data Skills
 
 - Data Cleaning  
 - Data Visualization  
@@ -44,13 +44,7 @@ https://mrsghala.github.io/Glaud-Data-/
 
 ---
 
-## 📜 Certifications
-
-- Microsoft Power BI Data Analyst (in progress)
-
----
-
-## ✉️ Connect With Me
+## › Connect With Me
 
 <div align="left">
 <a href="https://www.linkedin.com/in/ghala-althubaity-86508b372">
