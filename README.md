@@ -4,14 +4,16 @@
 
 ---
 
-## 👩🏻‍💻 About Me
+## 🪄 About Me
 
+<p style="font-size:12px">
 I’m a **Management Information Systems student at Taif University** with a strong interest in **data analysis, problem-solving, and transforming raw data into insights that support better decision-making.**
 
 ---
 
 ## </> Projects
 
+<p style="font-size:12px">
 ### Glaud Data
 A practical workspace designed to eliminate fragmentation between data tools by unifying them in one place.
 
