@@ -18,9 +18,10 @@ I’m a <b>Management Information Systems student at Taif University</b> with a 
 A practical workspace designed to eliminate fragmentation between data tools by unifying them in one place.
 </p>
 
-<p style="font-size:12px"> 🔗 View Project:
-<a href="https://mrsghala.github.io/Glaud-Data-/">https://mrsghala.github.io/Glaud-Data-/</a></p>
-
+<p style="font-size:12px">
+🔗 View Project:<br>
+<a href="https://mrsghala.github.io/Glaud-Data-/">https://mrsghala.github.io/Glaud-Data-/</a>
+</p>
 ---
 
 ## ⚒️ Tools
