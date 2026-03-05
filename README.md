@@ -36,22 +36,23 @@ https://mrsghala.github.io/Glaud-Data-/
 
 ## ✦ Data Skills
 
-- Data Cleaning  
-- Data Visualization  
-- Dashboard Design  
-- Data Analysis  
-- Business Insights  
+<p style="font-size:14px">
+- Data Cleaning<br>
+- Data Visualization<br>
+- Dashboard Design<br>
+- Data Analysis<br>
+- Business Insights
+</p>
 
 ---
 
 ## › Connect With Me
 
-<div align="left">
-<a href="https://www.linkedin.com/in/ghala-althubaity-86508b372">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="32"/>
-</a>
-
-<a href="https://x.com/mrsghlo">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" width="32"/>
-</a>
-</div>
+<p>
+  <a href="https://www.linkedin.com/in/ghala-althubaity-86508b372">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5"/>
+  </a>
+  <a href="https://x.com/mrsghlo">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=flat&logo=x&logoColor=white&labelColor=1DA1F2"/>
+  </a>
+</p>
