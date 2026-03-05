@@ -48,11 +48,11 @@ https://mrsghala.github.io/Glaud-Data-/
 
 ## › Connect With Me
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/ghala-althubaity-86508b372">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5" height="24"/>
   </a>
   <a href="https://x.com/mrsghlo">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=flat&logo=x&logoColor=white&labelColor=1DA1F2"/>
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=flat&logo=x&logoColor=white&labelColor=1DA1F2" height="24"/>
   </a>
 </p>
