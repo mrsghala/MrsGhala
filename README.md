@@ -19,7 +19,7 @@ A practical workspace designed to eliminate fragmentation between data tools by 
 </p>
 
 <p style="font-size:12px">
-➛ View Project:<br>
+➙ View Project:<br>
 <a href="https://mrsghala.github.io/Glaud-Data-/">https://mrsghala.github.io/Glaud-Data-/</a>
 </p>
 
