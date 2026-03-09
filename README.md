@@ -56,19 +56,11 @@ A practical workspace designed to eliminate fragmentation between data tools by 
 ## 👩🏻‍💻 Authors
 
 <div align="left">
-  <p>
-    <strong>Ghala Althubaity</strong> &nbsp; 
-    <a href="https://www.linkedin.com/in/ghala-althubaity-86508b372">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="20" style="vertical-align: middle;"/>
-    </a>
-  </p>
-
-  <br>
-
-  <p>
-    <strong>Jood Asaad</strong> &nbsp; 
-    <a href="https://www.linkedin.com/in/joud-al-a646133a4">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="20" style="vertical-align: middle;"/>
-    </a>
-  </p>
+  <a href="https://www.linkedin.com/in/ghala-althubaity-86508b372" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="22" style="margin-right: 10px;"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/mrsghlo" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" width="22" style="margin-right: 10px;"/>
+  </a>
 </div>
