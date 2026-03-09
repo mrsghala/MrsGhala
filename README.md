@@ -19,7 +19,7 @@ A practical workspace designed to eliminate fragmentation between data tools by 
 </p>
 
 <p style="font-size:12px">
-🔗 View Project:<br>
+➛ View Project:<br>
 <a href="https://mrsghala.github.io/Glaud-Data-/">https://mrsghala.github.io/Glaud-Data-/</a>
 </p>
 
@@ -56,11 +56,10 @@ A practical workspace designed to eliminate fragmentation between data tools by 
 ## 👩🏻‍💻 Authors
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/ghala-althubaity-86508b372" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="22" style="margin-right: 10px;"/>
+  <a href="https://www.linkedin.com/in/ghala-althubaity-86508b372">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="24"/>
   </a>
-  &nbsp;
-  <a href="https://x.com/mrsghlo" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" width="22" style="margin-right: 10px;"/>
+  <a href="https://x.com/mrsghlo">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" width="24"/>
   </a>
 </div>
