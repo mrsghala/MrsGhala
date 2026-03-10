@@ -42,11 +42,15 @@ A practical workspace designed to eliminate fragmentation between data tools by 
 ## ✦ Data Skills
 
 <p style="font-size:12px">
-- Data Cleaning<br>
-- Data Visualization<br>
-- Dashboard Design<br>
-- Data Analysis<br>
-- Business Insights
+• Data Cleaning<br>
+  
+• Data Visualization<br>
+
+• Dashboard Design<br>
+
+• Data Analysis<br>
+
+• Business Insights
 </p>
 
 ---
