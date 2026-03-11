@@ -6,7 +6,7 @@
 
 ## 🪄 About Me
 <p style="font-size:12px">
-I’m a <b>Management Information Systems student at Taif University</b> with a strong interest in <b>data analysis, problem-solving, and transforming raw data into insights that support better decision-making.</b>
+I’m a <b>Management Information Systems student at Taif University</b> with a strong interest in <b>BI & data analysis, problem-solving, and transforming raw data into insights that support better decision-making.</b>
 </p>
 
 ---
