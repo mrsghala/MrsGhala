@@ -57,8 +57,6 @@ A practical workspace designed to eliminate fragmentation between data tools by 
 
 ## › Connect With Me
 
-## 👩🏻‍💻 Authors
-
 <div align="left">
   <a href="https://www.linkedin.com/in/ghala-althubaity-86508b372">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="24"/>
