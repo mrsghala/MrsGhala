@@ -11,7 +11,7 @@ I’m a <b>Management Information Systems student at Taif University</b> with a 
 
 ---
 
-## ‹/› Projects
+## ✦ Projects
 
 ### Glaud Data
 <p style="font-size:12px">
@@ -25,7 +25,7 @@ A practical workspace designed to eliminate fragmentation between data tools by 
 
 ---
 
-## ›› Tools
+## ✦ Tools
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
