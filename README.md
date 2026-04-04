@@ -21,7 +21,7 @@ I’m a <b>Management Information Systems student at Taif University</b> with a 
 
 <br>
 
-## ✦➙ Explore more projects in my repositories:
+✦ ➙ Explore more projects in my repositories:
 
 [View Repositories](https://github.com/mrsghala?tab=repositories)
 
