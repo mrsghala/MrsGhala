@@ -13,15 +13,16 @@ I’m a <b>Management Information Systems student at Taif University</b> with a 
 
 ## ✦ Projects
 
-### Glaud Data
-<p style="font-size:12px">
-A practical workspace designed to eliminate fragmentation between data tools by unifying them in one place.
-</p>
+➙ [Sales Performance Dashboard | Power BI](https://github.com/mrsghala/Sales-Performance-Dashboard)
 
-<p style="font-size:12px">
-➙ View Project:<br>
-<a href="https://mrsghala.github.io/Glaud-Data-/">https://mrsghala.github.io/Glaud-Data-/</a>
-</p>
+➙ [Project Performance Dashboard | Power BI](https://github.com/mrsghala/powerbi-project-performance-dashboard)
+
+➙ [Glaud Data Workspace](https://github.com/mrsghala/Glaud-Data-)
+
+<br>
+
+➙ Explore more on my GitHub:  
+[GitHub Profile](https://github.com/mrsghala)
 
 ---
 
