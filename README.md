@@ -62,7 +62,4 @@ I’m a <b>Management Information Systems student at Taif University</b> with a 
   <a href="https://www.linkedin.com/in/ghala-althubaity-86508b372">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="24"/>
   </a>
-  <a href="https://x.com/mrsghlo">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" width="24"/>
-  </a>
 </div>
