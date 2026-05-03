@@ -30,7 +30,6 @@ I’m a <b>Management Information Systems student at Taif University</b> with a 
 ## ✦ Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
@@ -40,18 +39,24 @@ I’m a <b>Management Information Systems student at Taif University</b> with a 
 
 ---
 
-## ✦ Data Skills
+## ✦ Skills
 
 <p style="font-size:12px">
-• Data Cleaning<br>
+• Data Analysis<br>
   
 • Data Visualization<br>
 
 • Dashboard Design<br>
 
-• Data Analysis<br>
+• Business Insights<br>
+  
+• Systems Analysis<br>
 
-• Business Insights
+• Requirements Gathering<br>
+
+• UML Diagrams (Use Case,Activity)<br>
+
+• Flowchart Design<br>
 </p>
 
 ---
