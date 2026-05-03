@@ -6,7 +6,7 @@
 
 ## 🪄 About Me
 <p style="font-size:12px">
-I’m a <b>Management Information Systems student at Taif University</b> with a strong interest in <b> Systems Analysis,BI & Data Analysis. Focused on problem-solving, understanding systems and processes, and transforming data into actionable insights that support decision-making.</b>
+I’m a <b>Management Information Systems student at Taif University</b> with a strong interest in <b> Systems Analysis, BI & Data Analysis. Focused on problem-solving, understanding systems and processes, and transforming data into actionable insights that support decision-making.</b>
 </p>
 
 ---
